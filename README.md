@@ -1,4 +1,5 @@
 # The Data Engineering Handbook
+<a href="https://trendshift.io/repositories/8755" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8755" alt="DataExpert-io%2Fdata-engineer-handbook | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 This repo has all the resources you need to become an amazing data engineer!
 
@@ -6,9 +7,13 @@ This repo has all the resources you need to become an amazing data engineer!
 
 If you are new to data engineering, start by following this [2024 breaking into data engineering roadmap](https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering)
 
-If you are here for the [6-week free YouTube boot camp](https://youtu.be/myhe0LXpCeo) you can check out
-- [introduction](bootcamp/introduction.md)
-- [software needed](bootcamp/software.md)
+If you are here for the [4-week free beginner boot camp](https://learn.dataexpert.io/program/the-absolute-beginner-data-engineering-boot-camp-starting-august-7th-6453/details) you can check out:
+- [introduction](beginner-bootcamp/introduction.md)
+- [software needed](beginner-bootcamp/software.md)
+
+If you are here for the [6-week free intermediate boot camp](https://learn.dataexpert.io/program/free-community-boot-camp/details) you can check out
+- [introduction](intermediate-bootcamp/introduction.md)
+- [software needed](intermediate-bootcamp/software.md)
 
 
 For more applied learning:
@@ -33,7 +38,7 @@ Top 3 must read books are:
 Top must-join communities for DE:
 - [DataExpert.io Community Discord](https://discord.gg/JGumAXncAK)
 - [Data Talks Club Slack](https://datatalks.club/slack)
-- [Data Engineer Things Community](https://www.dataengineerthings.org/aboutus/)
+- [Data Engineer Things Community](https://www.dataengineerthings.org/)
 
 Top must-join communities for ML:
 - [AdalFlow Discord](https://discord.com/invite/ezzszrRZvT)
@@ -57,6 +62,10 @@ Top must-join communities for ML:
   - [Onehouse](https://www.onehouse.ai)
   - [Delta Lake](https://delta.io/)
   - [Ilum](https://ilum.cloud/)
+  - [DuckLake](https://ducklake.select/)
+  - [Apache Iceberg](https://iceberg.apache.org/)
+  - [Apache Polaris](https://polaris.apache.org/)
+  - [Lakekeeper](https://lakekeeper.io/)
 - Data Warehouse
   - [Snowflake](https://www.snowflake.com/en/)
   - [Firebolt](https://www.firebolt.io/)
@@ -71,6 +80,7 @@ Top must-join communities for ML:
   - [Soda](https://www.soda.io/)
   - [DQOps](https://dqops.com/)
   - [HEDDA.IO](https://hedda.io)
+  - [Dingo](https://github.com/MigoXLab/dingo)
 - Education Companies
   - [DataExpert.io](https://www.dataexpert.io)
   - [LearnDataEngineering.com](https://www.learndataengineering.com)
@@ -95,6 +105,7 @@ Top must-join communities for ML:
   - [dlt](https://dlthub.com/)
   - [Sling](https://slingdata.io/)
   - [Meltano](https://meltano.com/)
+  - [Estuary](https://estuary.dev/)
 - Semantic Layers
   - [Cube](https://cube.dev)
   - [dbt Semantic Layer](https://www.getdbt.com/product/semantic-layer) 
@@ -131,6 +142,7 @@ Top must-join communities for ML:
 - [Oracle](https://blogs.oracle.com/datawarehousing/)
 - [Meta](https://engineering.fb.com/category/data-infrastructure/)
 - [Onehouse](https://www.onehouse.ai/blog)
+- [Estuary Blog](https://estuary.dev/blog/)
 
 ### Data Engineering Whitepapers:
 
@@ -144,6 +156,7 @@ Top must-join communities for ML:
 - [XTable in Action: Seamless Interoperability in Data Lakes](https://arxiv.org/abs/2401.09621)
 - [MapReduce: Simplified Data Processing on Large Clusters](https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/)
 - [Tidy Data](https://vita.had.co.nz/papers/tidy-data.pdf)
+- [Data Engineering Whitepapers](https://www.ssp.sh/brain/data-engineering-whitepapers/)
 
 ### Social Media Accounts
 
@@ -155,6 +168,7 @@ Here's the mostly comprehensive list of data engineering creators:
 | Name                        | YouTube Channel                                                                                         | Follower Count |
 |----------------------------|---------------------------------------------------------------------------------------------------------|---------------:|
 | ByteByteGo                 | [ByteByteGo](https://www.youtube.com/c/ByteByteGo)                                             | 1,000,000+     |
+| Data with Baraa            | [Data with Baraa](https://www.youtube.com/@DataWithBaraa)                                       | 195,000+     |
 | Zach Wilson                | [Data with Zach](https://www.youtube.com/@eczachly_)                                          | 150,000+       |
 | Shashank Mishra            | [E-learning Bridge](https://www.youtube.com/@shashank_mishra)                                   | 100,000+       |
 | Seattle Data Guy           | [Seattle Data Guy](https://www.youtube.com/c/SeattleDataGuy)                                  | 100,000+       |
@@ -219,6 +233,7 @@ Here's the mostly comprehensive list of data engineering creators:
 | Simon Späti              | [Simon Späti](https://www.linkedin.com/in/sspaeti/)                                            | 10,000+        |
 | Constantin Lungu         | [Constantin Lungu](https://www.linkedin.com/in/constantin-lungu-668b8756)                         | 10,000+        |
 | Lakshmi Sontenam         | [Lakshmi Sontenam](https://www.linkedin.com/in/shivaga9esh)                                      | 9,500+         |
+| Dani Pálma               | [Daniel Pálma](https://www.linkedin.com/in/danthelion/)                                          | 9,000+         |
 | Soumil Shah              | [Soumil Shah](https://www.linkedin.com/in/shah-soumil/)                                          | 8,000+         |
 | Arnaud Milleker          | [Arnaud Milleker](https://www.linkedin.com/in/arnaudmilleker/)                                    | 7,000+         |
 | Dimitri Visnadi          | [Dimitri Visnadi](https://www.linkedin.com/in/visnadi/)                                    | 7,000+         |
@@ -293,6 +308,9 @@ Here's the mostly comprehensive list of data engineering creators:
 - [MLOps.community](https://podcast.mlops.community/)
 - [Monday Morning Data Chat](https://open.spotify.com/show/3Km3lBNzJpc1nOTJUtbtMh)
 - [The Data Chief](https://www.thoughtspot.com/data-chief/podcast)
+- [The Joe Reis Show](https://open.spotify.com/show/3mcKitYGS4VMG2eHd2PfDN)
+- [Data Bytes](https://open.spotify.com/show/6VbjON5Ck9QYInBnmoqrDE)
+- [Super Data Science: ML & AI Podcast with Jon Krohn](https://open.spotify.com/show/1n8P7ZSgfVLVJ3GegxPat1)
 
 ### Great [list of 20+ newsletters](newsletters.md)
 
@@ -301,6 +319,7 @@ Top must follow newsletters for data engineering:
 - [Joe Reis](https://joereis.substack.com)
 - [Start Data Engineering](https://www.startdataengineering.com)
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com)
+- [Data Engineer Things](https://dataengineerthings.substack.com/)
 
 ### Glossaries:
 - [Data Engineering Vault](https://www.ssp.sh/brain/data-engineering/)
@@ -334,6 +353,7 @@ Top must follow newsletters for data engineering:
 - [Scaler](https://www.scaler.com/)
 - [DataTeams - Data Engingeer hiring platform](https://www.datateams.ai/)
 - [Udemy Courses from Daniel Blanco](https://danielblanco.dev/links)
+- [DeepLearning.AI Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/data-engineering)
 
 ### Certifications Courses
 
